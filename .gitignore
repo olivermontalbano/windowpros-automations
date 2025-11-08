@@ -1,0 +1,11 @@
+# Firebase local runtime config (contains secrets)
+.runtimeconfig.json
+
+# Dependencies and build artifacts
+node_modules/
+functions/node_modules/
+functions/lib/
+
+# Logs, caches, temp
+*.log
+firebase-debug.log
