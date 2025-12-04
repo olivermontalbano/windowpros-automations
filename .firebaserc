@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "windowpros-automations"
-  }
+    "default": "windowpros-automations",
+    "production": "windowpros-89ada"
+  },
+  "targets": {},
+  "etags": {}
 }

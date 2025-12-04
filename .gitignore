@@ -9,3 +9,6 @@ functions/lib/
 # Logs, caches, temp
 *.log
 firebase-debug.log
+
+# Environment variables
+functions/.env
